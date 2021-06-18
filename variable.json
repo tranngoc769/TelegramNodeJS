@@ -1,0 +1,12 @@
+{
+    "Token": "1892851066:AAEubWWsXNpb9ysQSo-4vfmAEZ3DrLCvU_s",
+    "BlockMessages": ["Hi"],
+    "IsCallBackDeleteMsg": true,
+    "CallBackDeleteMsg": "Chào tạm biệt! ",
+    "UserMessages": ["MẤY GIỜ RỒI"],
+    "ReplyMessages": {
+        "MẤY GIỜ RỒI": "9 giờ",
+        "MẤY GIỜ RỒI NHỈ": "9 giờ"
+    }
+
+}
